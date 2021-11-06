@@ -1,16 +1,40 @@
-### Hi there 👋
+<h1 align="center">Hi! I'm Djalmir Miodutzki</h1>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Djalmir&color=lime" alt="Profile views" /> </p>
 
-<!--
-**Djalmir/Djalmir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 📱 Frontend Developer 💻
+- 📸 Currently working at [PremaCar](https://www.linkedin.com/company/prema-car/)
+- 👨‍💻 You can find all of my personal projects at [Djalmir.github.io](https://djalmir.github.io)
+- 🗨 Ask me about **JavaScript, HTML, CSS, VueJS**
 
-Here are some ideas to get you started:
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 &nbsp;Tech Stack
+
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![VueJs](https://img.shields.io/badge/-Vue.js-05122A?style=flat&logo=vue.js)&nbsp;
+![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
+![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
+![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb)&nbsp;
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+
+<br>
+
+## ⚙️ &nbsp;GitHub Analytics
+
+<p align="left">
+<img width="530em" src="https://github-readme-stats.vercel.app/api?username=Djalmir&show_icons=true&theme=vision-friendly-dark" alt="Djalmir's stats"/>
+<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Djalmir&layout=compact&theme=vision-friendly-dark" alt="Djalmir's most used languages"/>
+</p>
+
+<br>
+
+## 👨🏽‍🦲 &nbsp;Social Links
+
+<p align="left">
+<a href="https://linkedin.com/in/djalmir-miodutzki" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-Djalmir%20Miodutzki-05122A?style=flat&logo=linkedin" alt="linkedin"/>
+</a>
+</p>
