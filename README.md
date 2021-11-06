@@ -1,5 +1,5 @@
 <h1 align="center">Hi! I'm Djalmir Miodutzki</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Djalmir&color=lime" alt="Profile views" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Djalmir&color=#0099ff" alt="Profile views" /> </p>
 
 - 📱 Frontend Developer 💻
 - 📸 Currently working at [PremaCar](https://www.linkedin.com/company/prema-car/)
