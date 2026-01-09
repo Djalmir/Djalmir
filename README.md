@@ -2,9 +2,9 @@
 <h2>I'm Djalmir Miodutzki</h2>
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=Djalmir&color=blue" alt="Profile views" /> </p>
 
-- 📱 Frontend Developer 💻
+- 📱 Full Stack Developer 💻
 - 📸 Currently working at [Razion](https://lp.razion.games)
-- 👨‍💻 You can find all of my personal projects at [Djalmir.github.io](https://djalmir.github.io)
+- 👨‍💻 You can find some of my personal projects at [Djalmir.github.io](https://djalmir.github.io)
 - 🗨 Ask me about **JavaScript, HTML, CSS, VueJS**
 
 <br>
