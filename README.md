@@ -3,7 +3,7 @@
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=Djalmir&color=blue" alt="Profile views" /> </p>
 
 - 📱 Frontend Developer 💻
-- 📸 Currently working at [Pibe](https://www.linkedin.com/company/pibe-inc.)
+- 📸 Currently working at [Razion](https://lp.razion.games)
 - 👨‍💻 You can find all of my personal projects at [Djalmir.github.io](https://djalmir.github.io)
 - 🗨 Ask me about **JavaScript, HTML, CSS, VueJS**
 
